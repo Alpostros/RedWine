@@ -1,2 +1,2 @@
 # RedWine
-Prediction of Red Wine Quality
+Classification of Red Wine Quality
