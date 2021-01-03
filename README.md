@@ -1,1 +1,1 @@
-Prediction of Wine Quality
+Classification of Wine Quality
